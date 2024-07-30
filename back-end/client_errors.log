@@ -1,0 +1,16 @@
+Date: 2024-07-30
+Date: 10:10:51
+Error: Error: Objects are not valid as a React child (found: object with keys {something}). If you meant to render a collection of children, use an array instead.
+Error Info: 
+    at div
+    at ErrorBoundary (http://localhost:3000/static/js/bundle.js:125:5)
+    at App (http://localhost:3000/static/js/bundle.js:29:74)
+
+Date: 2024-07-30
+Date: 11:02:21
+Error: Error: Objects are not valid as a React child (found: object with keys {something}). If you meant to render a collection of children, use an array instead.
+Error Info: 
+    at div
+    at ErrorBoundary (http://localhost:3000/static/js/bundle.js:125:5)
+    at App (http://localhost:3000/static/js/bundle.js:29:74)
+
